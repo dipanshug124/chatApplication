@@ -1,4 +1,4 @@
-### `Try this app on https://chatapplication-ee179.web.app/`
+### `Try this app on [](https://chatapplication-ee179.web.app/)`
 
 # Getting Started with Create React App
 
